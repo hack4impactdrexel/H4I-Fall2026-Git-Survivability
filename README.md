@@ -1,6 +1,6 @@
 # Git Survivability Workshop
 
-Welcome to **Hack for Impact's Git Survivability Workshop!**
+Welcome to **Hack4Impact's Git Survivability Workshop!**
 
 Your goal is to complete eight progressively harder Git challenges using a shared GitHub repository. You'll practice committing, branching, collaborating, recovering from mistakes, and working with multiple Git worktrees.
 
@@ -9,7 +9,7 @@ Your goal is to complete eight progressively harder Git challenges using a share
 - Everyone works in the same shared GitHub repository.
 - Complete the challenges in order, at your own pace.
 - The contents of your changes don't matter unless a challenge specifies otherwise. Keep them small and harmless.
-- **Challenges 1–6** can be verified by a Hack for Impact board member after you've completed them.
+- **Challenges 1–6** can be verified by a Hack4Impact board member after you've completed them.
 - **Challenges 7–8** must be demonstrated live to a board member before they're considered complete.
 - Don't delete other participants' branches or intentionally destroy their work.
 - If you encounter conflicts or Git errors, figuring them out is part of the challenge!
@@ -92,7 +92,7 @@ Sometimes you need to temporarily save unfinished work without committing it.
 - You demonstrate that the changes were temporarily removed from your working directory.
 - You switch branches and successfully restore the stashed changes.
 
-**A Hack for Impact board member must observe this challenge live.**
+**A Hack4Impact board member must observe this challenge live.**
 
 ### Challenge 8: Parallel Development
 
@@ -105,7 +105,7 @@ Work on multiple branches simultaneously using Git worktrees.
 - Each directory has a different branch checked out.
 - You can display both worktrees using Git.
 
-**A Hack for Impact board member must observe this challenge live.**
+**A Hack4Impact board member must observe this challenge live.**
 
 ---
 
@@ -191,4 +191,4 @@ Pull requests are managed through GitHub's website.
 
 Git is one of the most important tools you'll use as a software developer. The best way to learn it is by using it, making mistakes, and figuring out how to recover.
 
-**Interested in building real software for nonprofits?** Ask a Hack for Impact board member how to get involved!
+**Interested in building real software for nonprofits?** Ask a Hack4Impact board member how to get involved!
